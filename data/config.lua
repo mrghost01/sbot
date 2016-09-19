@@ -53,8 +53,7 @@ do local _ = {
   },
   sudo_users = {
     179071599,
-    238564435,
-    Your iD
+    238564435
   }
 }
 return _

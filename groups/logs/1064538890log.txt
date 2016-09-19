@@ -1,0 +1,738 @@
+[ Fri Aug 12 15:26:04 2016 ]=>  Mohammad Mahdi [179071599] added SuperGroup
+ 
+[ Fri Aug 12 15:26:35 2016 ]=>  Mohammad Mahdi [179071599] resolved username: @To00khs3
+ 
+[ Fri Aug 12 15:26:44 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:45 2016 ]=>  Mohammad Mahdi[179071599] set [205373283] as owner by username
+ 
+[ Fri Aug 12 15:26:45 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:45 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:45 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:45 2016 ]=>  Mohammad Mahdi[179071599] set [120056698] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [187391273] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [262621404] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [136693972] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [206261124] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [117298898] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [252509619] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [160243483] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [140158577] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [115263651] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [251916649] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [100155327] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [236175192] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [103450297] as owner by username
+ 
+[ Fri Aug 12 15:26:46 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [141476284] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [143125763] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [215264910] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [235172272] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [149605934] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [156431577] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [208360834] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [136206255] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [175725856] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [254858785] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [196419509] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [121958376] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [163398452] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [202992449] as owner by username
+ 
+[ Fri Aug 12 15:26:47 2016 ]=>  Mohammad Mahdi[179071599] set [193729425] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [179781685] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [125463578] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [256055653] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [218613266] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [70805478] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [226313138] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [227561724] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [247397203] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [148461111] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [168190232] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [231181075] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [268062299] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [231259501] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [263205678] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [257437745] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [117879028] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [206704174] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:48 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [121089803] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [151653424] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [140008742] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [80596709] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [160889295] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [121772728] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [265794775] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:49 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [173273114] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [193455108] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [82362234] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [164616929] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [104175974] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [168137903] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [242783614] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [145421263] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [102256922] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [170016351] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [256683828] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [204067431] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [207743095] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [238974497] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [183635775] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [101134180] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [117034988] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [229006167] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [257884327] as owner by username
+ 
+[ Fri Aug 12 15:26:50 2016 ]=>  Mohammad Mahdi[179071599] set [223153607] as owner by username
+ 
+[ Fri Aug 12 15:28:02 2016 ]=>  Mohammad Mahdi [179071599] requested SuperGroup ID
+ 
+[ Fri Aug 12 15:28:34 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] promoted @MegaForceBot
+ 
+[ Fri Aug 12 15:28:43 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested SuperGroup ID
+ 
+[ Fri Aug 12 15:28:50 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] promoted @MegaForceBot
+ 
+[ Fri Aug 12 15:29:34 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] promoted @MegaForceBot
+ 
+[ Fri Aug 12 15:30:52 2016 ]=>  Mohammad Mahdi [179071599] used /owner
+ 
+[ Fri Aug 12 15:31:46 2016 ]=>  Mohammad Mahdi [179071599] locked tag 
+ 
+[ Fri Aug 12 15:31:48 2016 ]=>  Mohammad Mahdi [179071599] locked username 
+ 
+[ Fri Aug 12 15:32:00 2016 ]=>  Mohammad Mahdi [179071599] locked link posting 
+ 
+[ Fri Aug 12 15:32:39 2016 ]=>  Mohammad Mahdi [179071599] requested SuperGroup ID
+ 
+[ Fri Aug 12 15:34:17 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested SuperGroup settings 
+ 
+[ Fri Aug 12 15:34:29 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] locked sticker posting
+ 
+[ Fri Aug 12 15:35:23 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ_👑َ_َ-ﾑَِℓW√َ🍭🎈 [223153607] Used /superhelp
+ 
+[ Fri Aug 12 15:35:47 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested group modlist
+ 
+[ Fri Aug 12 15:36:27 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] promoted @i_Love_MoTHeR
+ 
+[ Fri Aug 12 15:37:32 2016 ]=>  👑ĦÅJ ℳЇLÅÐ👑 [190946396] requested group modlist
+ 
+[ Fri Aug 12 15:39:16 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested SuperGroup settings 
+ 
+[ Fri Aug 12 15:39:39 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] set flood to []
+ 
+[ Fri Aug 12 15:47:18 2016 ]=>  👑ĦÅJ ℳЇLÅÐ👑 [190946396] requested group modlist
+ 
+[ Fri Aug 12 15:47:36 2016 ]=>  👑ĦÅJ ℳЇLÅÐ👑 [190946396] requested group modlist
+ 
+[ Fri Aug 12 15:48:45 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested SuperGroup Admins list
+ 
+[ Fri Aug 12 15:54:02 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested group rules
+ 
+[ Fri Aug 12 16:18:25 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested SuperGroup ID
+ 
+[ Fri Aug 12 21:06:31 2016 ]=>  👑ĦÅJ ℳЇLÅÐ👑 [190946396] requested group modlist
+ 
+[ Fri Aug 12 22:44:31 2016 ]=>  بــهــ یـــاد داداشــــمـــ بـــــهـــنـــامـــ [87968560] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug 12 23:37:59 2016 ]=>  💥ألـشُــعــلـة ٱلـمَــهــدَويّـــة💥 [127028357] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug 12 23:38:00 2016 ]=>  باقي51يوم😔 @A_Sjad97 [91839096] kicked for #spam
+ 
+[ Fri Aug 12 23:38:02 2016 ]=>  شُيُعٌيُة وُحشُڊآوُيُة وُآلَهيُبُة تْڛطُر [127251298] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug 12 23:38:23 2016 ]=>  ❥✟حـ↡ﮩٍّﮩـ﴿ِH﴾ﮩٍّﮩؤرٍّيہِﮩٍّ ❥✟ ِ [200493150] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug 12 23:38:55 2016 ]=>  😌فاطمةالموسوي😒 [245860402] kicked for #spam
+ 
+[ Fri Aug 12 23:38:56 2016 ]=>  ريَحٍآنْةّآلُجٍنْةّ😊 @soss313 [175071102] kicked for #spam
+ 
+[ Fri Aug 12 23:38:57 2016 ]=>  شُيُعٌيُةوُحشُڊآوُيُةوُآلَهيُبُةتْڛطُر [127251298] kicked for #spam
+ 
+[ Fri Aug 12 23:39:09 2016 ]=>  آهاتالجروح @AhatAlroh [241449751] kicked for #spam
+ 
+[ Fri Aug 12 23:39:46 2016 ]=>  ❥✟حـ↡ﮩٍّﮩـ﴿ِH﴾ﮩٍّﮩؤرٍّيہِﮩٍّ❥✟ِ [200493150] kicked for #spam
+ 
+[ Fri Aug 12 23:39:53 2016 ]=>  ملُگہلُآتٌحٍـدِثْنْيَرجٍآء @tabtooba [120261450] kicked for #spam
+ 
+[ Fri Aug 12 23:40:05 2016 ]=>  ياالله @Oaamh [160703093] kicked for #spam
+ 
+[ Fri Aug 12 23:45:39 2016 ]=>  ُّ✵بــَ͜ஊــروஞًّ๋͜͡﴿ 👽 ﴾ـُّـفﮩًّ✮๋͜͡سـ‏ـﮩؤؤر✵  ﴿العـ❢ﮩৡ﴿👽﴾ـسكـر❦ـــي﴾͡͡ [211293399] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug 12 23:50:59 2016 ]=>  ♥ حٌشٍدِأّوِيِّهِ وِبِيِّهِ☜ هِيِّبِةّ عٌلَيِّ عٌ♥ [191709838] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug 12 23:53:14 2016 ]=>  🌻خِـأّدٍمً أّلَحًشُـدٍ أّلَمًقـُدٍس🌻ِ [176438493] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Aug 13 01:32:36 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested SuperGroup ID
+ 
+[ Sat Aug 13 01:58:53 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >102592266
+ 
+[ Sat Aug 13 01:59:20 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >102592266
+ 
+[ Sat Aug 13 02:03:21 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >132182513
+ 
+[ Sat Aug 13 02:03:42 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >132182513
+ 
+[ Sat Aug 13 02:03:55 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >228829613
+ 
+[ Sat Aug 13 02:04:17 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >132182513
+ 
+[ Sat Aug 13 02:06:24 2016 ]=>  WanderingSoul @Ghiyamat_band [209125866] kicked for #spam
+ 
+[ Sat Aug 13 02:07:32 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] promoted @haj_a1i
+ 
+[ Sat Aug 13 02:08:40 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >177494227
+ 
+[ Sat Aug 13 02:08:50 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >262750262
+ 
+[ Sat Aug 13 02:09:02 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >177494227
+ 
+[ Sat Aug 13 02:09:05 2016 ]=>  ♬◀Meli▶♬ [179329358] added a banned user >132182513
+ 
+[ Sat Aug 13 02:09:25 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] set SuperGroup to: mute All
+ 
+[ Sat Aug 13 02:10:57 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] promoted @Melisa_alone
+ 
+[ Sat Aug 13 02:13:34 2016 ]=>  💖Hamid💖 [132182513] banned user is talking !
+ 
+[ Sat Aug 13 02:20:18 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >184807354
+ 
+[ Sat Aug 13 02:23:05 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >147215414
+ 
+[ Sat Aug 13 02:25:28 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >215726980
+ 
+[ Sat Aug 13 02:25:51 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >222149804
+ 
+[ Sat Aug 13 02:26:07 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >268150485
+ 
+[ Sat Aug 13 02:27:02 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] set SuperGroup to: unmute All
+ 
+[ Sat Aug 13 02:29:21 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >212668529
+ 
+[ Sat Aug 13 02:29:30 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >177494227
+ 
+[ Sat Aug 13 02:29:40 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >262413763
+ 
+[ Sat Aug 13 02:30:36 2016 ]=>  HaJaLًٍi👑 [142292053] added a banned user >253353860
+ 
+[ Sat Aug 13 02:30:44 2016 ]=>  جـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٍٍٍٍٍٍُّّ؁ًًُُُـواًًًًًٌٍٍُّـدًّّّّّّّّّّّْ شُُُوًًٌٌٍٍٍٍٍٍٍِّّّکـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍّْ؁ـًٌُّْرًًًًًًًًًًًًًًًًًًًًًًًًًًّّّـمٍٍُُّّّّ/¿؟حًًٍٍلهٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ؟¿/ [201740116] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Aug 13 02:30:58 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >260238904
+ 
+[ Sat Aug 13 02:31:16 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] added a banned user >212668529
+ 
+[ Sat Aug 13 02:32:35 2016 ]=>  Alireza [146463013] kicked for #spam
+ 
+[ Sat Aug 13 02:54:31 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 02:59:12 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:00:04 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:00:12 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:02:02 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:02:42 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:03:36 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:04:15 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:05:11 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:05:36 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:05:40 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:05:53 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:06:31 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:06:56 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:07:06 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:07:26 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:07:35 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:07:54 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:08:04 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] obtained id for: [190946396]
+ 
+[ Sat Aug 13 03:08:18 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] demoted user#id190946396
+ 
+[ Sat Aug 13 03:08:28 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:08:28 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] added [190946396] to the muted users list
+ 
+[ Sat Aug 13 03:08:32 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:08:34 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:08:37 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:08:38 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:08:40 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:08:43 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:08:51 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:09:34 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] removed [190946396] from the muted users list
+ 
+[ Sat Aug 13 03:09:45 2016 ]=>  SonofGod @Abtin_mj [123418541] kicked for #spam
+ 
+[ Sat Aug 13 03:09:47 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] promoted user#id190946396
+ 
+[ Sat Aug 13 03:13:36 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >253353860
+ 
+[ Sat Aug 13 03:15:48 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >215726980
+ 
+[ Sat Aug 13 03:16:03 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >132182513
+ 
+[ Sat Aug 13 03:17:22 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >268150485
+ 
+[ Sat Aug 13 03:17:36 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >222149804
+ 
+[ Sat Aug 13 03:21:27 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 03:22:03 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >90696573
+ 
+[ Sat Aug 13 03:23:16 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >236913816
+ 
+[ Sat Aug 13 03:23:45 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >253353860
+ 
+[ Sat Aug 13 03:26:09 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >158079610
+ 
+[ Sat Aug 13 03:26:56 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >185565515
+ 
+[ Sat Aug 13 03:27:44 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >194165765
+ 
+[ Sat Aug 13 03:27:49 2016 ]=>  Omid [34730855] banned user is talking !
+ 
+[ Sat Aug 13 03:36:48 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >169957497
+ 
+[ Sat Aug 13 03:39:09 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >130757730
+ 
+[ Sat Aug 13 03:40:18 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >212668529
+ 
+[ Sat Aug 13 03:40:34 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >260238904
+ 
+[ Sat Aug 13 03:40:47 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >181175243
+ 
+[ Sat Aug 13 03:44:03 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >244939263
+ 
+[ Sat Aug 13 03:46:00 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >90696573
+ 
+[ Sat Aug 13 03:52:43 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >184270578
+ 
+[ Sat Aug 13 03:54:01 2016 ]=>  ابہٰۣۚﹷٰﹷومہٰۣۚﹷٰﹷجہٰۣۚﹷٰﹷاهہٰۣۚﹷٰﹷدالہٰۣۚﹷٰشہٰۣۚﹷٰامہٰۣۚﹷٰي [90189463] kicked for #spam
+ 
+[ Sat Aug 13 03:59:27 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >184270578
+ 
+[ Sat Aug 13 04:03:17 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >147215414
+ 
+[ Sat Aug 13 04:05:23 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >225080005
+ 
+[ Sat Aug 13 04:05:33 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >174801971
+ 
+[ Sat Aug 13 04:07:09 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >223538502
+ 
+[ Sat Aug 13 04:09:12 2016 ]=>  ابوحمزةالانصاري [221494984] kicked for #spam
+ 
+[ Sat Aug 13 04:09:48 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] added a banned user >169957497
+ 
+[ Sat Aug 13 04:35:15 2016 ]=>  {‡ ♚❤†Ąبـّـٍٍِِـٍّْـٌßـٍـٍّـًãـٍُِّـُْـًٍِْـًّ§†❤♚ ‡} [210346661] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Aug 13 04:47:38 2016 ]=>  💎🎧•|ًٌٍBًٌٍäًٌٍðًٌٍĜًٌٍïًٍřًٍłً|•🐼🔫 [222957079] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Aug 13 05:07:36 2016 ]=>  SahariiiiT.t [196513130] kicked for #spam
+ 
+[ Sat Aug 13 07:31:15 2016 ]=>  ❥✟حـ↡ﮩٍّﮩـ﴿ِH﴾ﮩٍّﮩؤرٍّيہِﮩٍّ❥✟ِ [200493150] kicked for #spam
+ 
+[ Sat Aug 13 08:23:31 2016 ]=>  نفNafasس [230503470] banned user is talking !
+ 
+[ Sat Aug 13 09:17:45 2016 ]=>  EHSAN [255456113] kicked for #spam
+ 
+[ Sat Aug 13 09:29:34 2016 ]=>  ؟؟؟؟؟ @Farid_bekas1 [90128958] kicked for #spam
+ 
+[ Sat Aug 13 09:56:12 2016 ]=>  طاها [166122881] kicked for #spam
+ 
+[ Sat Aug 13 10:21:51 2016 ]=>  Mas [227335068] kicked for #spam
+ 
+[ Sat Aug 13 10:40:32 2016 ]=>  💚Iman💚🔚sj💜 [215726980] banned user is talking !
+ 
+[ Sat Aug 13 11:32:08 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:08 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 11:32:09 2016 ]=>  سحر#1 [222149804] banned user is talking !
+ 
+[ Sat Aug 13 12:15:42 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] obtained id for: [154660218]
+ 
+[ Sat Aug 13 12:15:59 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] promoted user#id154660218
+ 
+[ Sat Aug 13 12:34:55 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 12:40:16 2016 ]=>  HaJaLًٍi👑 [142292053] banned user is talking !
+ 
+[ Sat Aug 13 12:40:19 2016 ]=>  HaJaLًٍi👑 [142292053] banned user is talking !
+ 
+[ Sat Aug 13 12:40:21 2016 ]=>  HaJaLًٍi👑 [142292053] banned user is talking !
+ 
+[ Sat Aug 13 12:40:23 2016 ]=>  HaJaLًٍi👑 [142292053] banned user is talking !
+ 
+[ Sat Aug 13 12:43:08 2016 ]=>  DaryaAramesh [205218508] kicked for #spam
+ 
+[ Sat Aug 13 12:43:08 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:08 2016 ]=>  DaryaAramesh [205218508] kicked for #spam
+ 
+[ Sat Aug 13 12:43:08 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:09 2016 ]=>  DaryaAramesh [205218508] banned user is talking !
+ 
+[ Sat Aug 13 12:43:25 2016 ]=>  بهکدامينوفايادتکنم.... [193707598] is banned and kicked ! 
+ 
+[ Sat Aug 13 13:05:23 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:05:35 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:05:58 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:07:04 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:07:28 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:07:31 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:07:39 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:07:51 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:08:41 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:09:50 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:10:19 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:13:58 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:20:04 2016 ]=>  ♦️️رويــــــــٍـٍٍٍٍـٍـٍٍٍٍٍٍـٍٍٍٍـٍـٍـٍـٍـٍــٍِـٍـٍٍٍٍـٍـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍـٍــٍـا♥️ [259730428] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Aug 13 13:53:36 2016 ]=>  دًًًٍٍٍٍٍٍٍخٍٍٍٍٍٍٍٓٓٓٓـًًًًٍٍٍٍٍٰ ًًًًًٌٍٍٍٍٍٍٍٍٍٍٍٍٍٰٖ؁ًًٍٍٍٍٍٍٍٍٍٍٍٍٍٰٰـًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٖےًًًٍٍٍٍٍٍٍ مًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍِـ๏̯̃๏ـًًًٍٍٍٍٍٍٍٍٍٍٍٖٓٓ ًٍٍٍٍٍٍٍٍٍٍٰٖٔٔ؁ًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍـًًٍخٍٍٍٍٍٍٍٍٍٍٍٍّٔ ًرًًًٍٍٍٍٍٍٍٍدًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍےًٍٍٍٍٍٍٍٍٍْْْْْ [227537040] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Aug 13 13:55:46 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:55:56 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:56:10 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:57:24 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:59:01 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 13:59:37 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:00:12 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:00:27 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:00:45 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:00:59 2016 ]=>  ╯↯╰ٜٜ۪۪ؓؒؑهٖٜ۪ؔؔؔـٖؔؔؔ១ـٖؔؔؔـٜ۪ٜ۪ٜ۪ٜ۪ٜٜ۪ٜ۪ٜٜ۪ٜ۪ٜ۪ٜ۪۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪۪ٜٜ۪ٜ۪ٜ۪ٜ۪ٜٜ۪ٜ۪ٜٜ۪ٜ۪ٜ۪ٜ۪۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪௸ؔؔؔـٜ۪ٜ۪۪ٜ۪ٜٜ۪۪ٜٜ۪۪ٜٜ۪۪۪ٜٜٜ۪۪۪ٜٜٜ۪۪۪ٜٜٜٜ۪۪ٜٜٜ۪۪ٜٜٜ۪ؔسٖٜ۪ٜ۪ؔؔؔـٖٜ۪ٜ۪ؔؔؔ🎧ـٖٜ۪ٜ۪ٜؔؔؔفٖٜ۪۪ؔؔ٘ؓر ╯❧ ╰                  ‌         سـّ҉ّنـََِـِــــــــــــــــًٖـّـّ҉ّူີَِِٰٖـًًٍٍــّـّڱ                 کـّ҉ّـََِـِِـّـّاغــّ҉ّـََِـِِـــــــــــူີَِِٰٖـًًٍٍـذ                    هٓـــــঔఠఠـٓـــــ؁ــــــــــࢪࢪࢪࢪࢪࢪے🚶🏻🖕      ╰❧╯   み  ค  ℳ  3  ﾑ  ƒ  ค  尺    🎈 [198258436] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Aug 13 14:01:06 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:01:13 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] requested SuperGroup ID
+ 
+[ Sat Aug 13 14:01:32 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:06:20 2016 ]=>  ●▬▬▬▬๑۩بےتا۩๑▬▬▬▬▬● [260466303] is banned and kicked ! 
+ 
+[ Sat Aug 13 14:09:27 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:23:34 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:23:39 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:25:04 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:25:07 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:25:58 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:26:18 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:26:52 2016 ]=>  👑ĦÅJℳЇLÅÐ👑 [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:30:31 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 14:33:50 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ 👑َ َ-ﾑَِℓW√َ🍭🎈 [223153607] obtained id for: [133018284]
+ 
+[ Sat Aug 13 14:34:08 2016 ]=>  ََِ√َﾑʍََِiЯَ-َِِ👑ََ-ﾑَِℓW√َ🍭🎈 [223153607] baned user 133018284
+ 
+[ Sat Aug 13 14:34:42 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 15:27:04 2016 ]=>  طهالعبيدي☠🚫H.S.A🚫☠ @Ahbk_20 [244663210] kicked for #spam
+ 
+[ Sat Aug 13 15:49:42 2016 ]=>  شوقوحنين @Roow2 [197337373] kicked for #spam
+ 
+[ Sat Aug 13 16:03:54 2016 ]=>  جيشالسنهالألكتروني5 @Taajskkdkw [264833492] kicked for #spam
+ 
+[ Sat Aug 13 16:23:14 2016 ]=>  😉😜¸„.-•~¹°”ˆ˜¨Àłį ¨˜ˆ”°¹~•-.„¸😜😉 [153131912] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Aug 13 16:50:53 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 16:51:16 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 16:51:37 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 16:52:22 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 16:53:18 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:13:30 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:13:58 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:14:03 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:14:22 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:14:27 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:14:39 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:14:55 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:15:07 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:15:26 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:16:18 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:16:34 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:16:54 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:16:57 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:17:11 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:17:21 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:17:40 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:17:48 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 
+[ Sat Aug 13 17:18:32 2016 ]=>  👑ĦÅJℳЇLÅÐ👑Sin4eVeR [190946396] banned user is talking !
+ 

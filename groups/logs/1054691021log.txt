@@ -1,0 +1,152 @@
+[ Sat Aug 13 12:37:48 2016 ]=>  Mohammad Mahdi [179071599] added SuperGroup
+ 
+[ Sat Aug 13 12:41:09 2016 ]=>  ¥زشتو ترسناکم میدونم نگین دیگه¥ خسته شدم از نامردی [210882318] requested SuperGroup ID
+ 
+[ Sat Aug 13 12:41:29 2016 ]=>  Mohammad Mahdi [179071599] used /owner
+ 
+[ Sat Aug 13 12:41:41 2016 ]=>  Mohammad Mahdi [179071599] obtained id for: [210882318]
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [123459018] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [139424904] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [216245950] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [242684147] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [151385041] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [124057555] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [161570285] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [95479931] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [235071380] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [231101497] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [245703319] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [204266085] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [160201035] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [254935317] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [234354145] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [144717143] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [150822378] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [254321969] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [219885312] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [146578037] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [269359509] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [188682984] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [172904547] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [238567505] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [139442875] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [126348367] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [151807194] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [123859779] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [157138191] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [159877955] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [214031965] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [128248687] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [202901948] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [102197297] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [194021331] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [190939763] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [140493775] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [139323842] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [170353908] as owner by username
+ 
+[ Sat Aug 13 12:41:54 2016 ]=>  Mohammad Mahdi[179071599] set [210882318] as owner by username
+ 
+[ Sat Aug 13 12:42:42 2016 ]=>  Mohammad Mahdi [179071599] requested SuperGroup settings 
+ 
+[ Sat Aug 13 12:43:27 2016 ]=>  Mohammad Mahdi [179071599] locked link posting 
+ 
+[ Sat Aug 13 12:43:37 2016 ]=>  Mohammad Mahdi [179071599] locked tag 
+ 
+[ Sat Aug 13 12:43:37 2016 ]=>  Mohammad Mahdi [179071599] locked username 
+ 
+[ Sat Aug 13 12:44:05 2016 ]=>  Mohammad Mahdi [179071599] set group to: public
+ 
+[ Sat Aug 13 12:44:21 2016 ]=>  Mohammad Mahdi [179071599] requested SuperGroup settings 
+ 
+[ Sat Aug 13 12:48:08 2016 ]=>  Mohammad Mahdi [179071599] locked member 
+ 
+[ Sat Aug 13 12:50:06 2016 ]=>  Mohammad Mahdi [179071599] set SuperGroup to: mute All
+ 
+[ Sat Aug 13 12:50:27 2016 ]=>  Mohammad Mahdi [179071599] unlocked member 
+ 
+[ Sat Aug 13 12:50:33 2016 ]=>  Mohammad Mahdi [179071599] deleted a message by reply
+ 
+[ Sat Aug 13 12:51:06 2016 ]=>  Mohammad Mahdi [179071599] set SuperGroup to: unmute All
+ 
+[ Sat Aug 13 15:19:37 2016 ]=>  ¥زشتو ترسناکم میدونم نگین دیگه¥ خسته شدم از نامردی [210882318] requested SuperGroup ID
+ 
