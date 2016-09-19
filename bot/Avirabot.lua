@@ -262,7 +262,7 @@ function create_config( )
    "whitelist",
    "wiki",
     },
-    sudo_users = {179071599,238564435},--Sudo users
+    sudo_users = {205962272},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
